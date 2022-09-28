@@ -1,7 +1,5 @@
 package Hafta02.car;
 
-import customer.Customer;
-
 public abstract class Vehicle {
     private String model;
     private String brand;

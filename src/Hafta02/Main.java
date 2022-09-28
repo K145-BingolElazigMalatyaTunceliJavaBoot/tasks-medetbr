@@ -1,10 +1,11 @@
 package Hafta02;
 
-import customer.Citizen;
-import customer.Company;
-import car.Hatchback;
-import car.Sedan;
-import car.Suv;
+import Hafta02.car.Hatchback;
+import Hafta02.car.Sedan;
+import Hafta02.car.Suv;
+import Hafta02.customer.Citizen;
+import Hafta02.customer.Company;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -37,11 +38,6 @@ public class Main {
         //company.rent(suv1,12);
         //company.getRentalCar();
     }
-
-
-
-
-
 
 
     public static Sedan createSedan(String brand,String model,int age,int km,String color,int topSpeed){

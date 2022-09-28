@@ -1,7 +1,8 @@
 package Hafta02.customer;
 
-import car.Hatchback;
-import car.Vehicle;
+import Hafta02.car.Hatchback;
+import Hafta02.car.Vehicle;
+
 
 public class Citizen extends Customer{
     private String name;

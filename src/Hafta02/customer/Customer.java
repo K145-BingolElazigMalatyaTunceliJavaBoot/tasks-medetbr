@@ -1,6 +1,7 @@
 package Hafta02.customer;
 
-import car.Vehicle;
+import Hafta02.car.Vehicle;
+
 
 public class Customer {
     private Vehicle vehicle;
