@@ -1,3 +1,5 @@
+package Hafta01;
+
 public class AsalSayiToplam {
     public static void main(String[] args) {
         int toplam=0;
