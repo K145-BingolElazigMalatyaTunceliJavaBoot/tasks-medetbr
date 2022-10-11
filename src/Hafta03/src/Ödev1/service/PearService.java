@@ -1,6 +1,6 @@
 package Hafta03.src.Ödev1.service;
 
-import Ödev1.room.FruitRoom;
+import Hafta03.src.Ödev1.room.FruitRoom;
 
 public class PearService {
     FruitRoom fruitRoom;

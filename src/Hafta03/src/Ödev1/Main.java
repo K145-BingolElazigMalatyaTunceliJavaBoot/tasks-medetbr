@@ -1,14 +1,14 @@
 package Hafta03.src.Ödev1;
 
-import Ödev1.fruit.Apple;
-import Ödev1.fruit.Cherry;
-import Ödev1.fruit.Pear;
-import Ödev1.room.AppleRoom;
-import Ödev1.room.CherryRoom;
-import Ödev1.room.PearRoom;
-import Ödev1.service.AppleService;
-import Ödev1.service.CherryService;
-import Ödev1.service.PearService;
+import Hafta03.src.Ödev1.fruit.Apple;
+import Hafta03.src.Ödev1.fruit.Cherry;
+import Hafta03.src.Ödev1.fruit.Pear;
+import Hafta03.src.Ödev1.room.AppleRoom;
+import Hafta03.src.Ödev1.room.CherryRoom;
+import Hafta03.src.Ödev1.room.PearRoom;
+import Hafta03.src.Ödev1.service.AppleService;
+import Hafta03.src.Ödev1.service.CherryService;
+import Hafta03.src.Ödev1.service.PearService;
 
 public class Main {
     public static void main(String[] args) {

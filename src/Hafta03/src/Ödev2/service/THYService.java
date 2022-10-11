@@ -1,6 +1,6 @@
 package Hafta03.src.Ödev2.service;
 
-import Ödev2.entity.THY;
+import Hafta03.src.Ödev2.entity.THY;
 
 import java.util.HashSet;
 

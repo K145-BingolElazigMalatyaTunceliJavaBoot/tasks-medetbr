@@ -1,8 +1,8 @@
 package Hafta03.src.Ödev2;
 
-import Ödev2.service.IFlightService;
-import Ödev2.service.PegasusService;
-import Ödev2.service.THYService;
+import Hafta03.src.Ödev2.service.IFlightService;
+import Hafta03.src.Ödev2.service.PegasusService;
+import Hafta03.src.Ödev2.service.THYService;
 
 public class Main {
     public static void main(String[] args) {

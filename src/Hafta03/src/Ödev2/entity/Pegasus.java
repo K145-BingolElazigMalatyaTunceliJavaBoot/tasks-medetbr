@@ -1,7 +1,5 @@
 package Hafta03.src.Ödev2.entity;
 
-import java.util.HashSet;
-
 public class Pegasus extends FlightCompany{
 
     public Pegasus() {

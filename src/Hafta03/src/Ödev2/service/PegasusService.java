@@ -1,7 +1,7 @@
 package Hafta03.src.Ödev2.service;
 
 
-import Ödev2.entity.Pegasus;
+import Hafta03.src.Ödev2.entity.Pegasus;
 
 import java.util.HashSet;
 
