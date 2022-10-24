@@ -68,7 +68,6 @@ public class ToDoService {
             throw new RuntimeException("Bir hata oluştu");
         }
     }
-
     public List<ToDo> findAllToDoByStatus(boolean status) {
         try {
             todoList = ToDoConfiguration.todoList;
